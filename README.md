@@ -1,4 +1,3 @@
-alternate.cpp
 
 Diego Vela - Dvela2@csu.fullerton.edu
 
