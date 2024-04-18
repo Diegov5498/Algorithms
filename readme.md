@@ -1,6 +1,6 @@
 # project-2
     Spring Camp Food
-    Group Memebers: Diego Vela, dvela2@csu.fullerton.edu
+    Group Members: Diego Vela, dvela2@csu.fullerton.edu
 
 ### Greedy Algorithm PseudoCode
     todo = foods                                                               //1 step
