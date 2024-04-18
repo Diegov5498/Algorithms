@@ -5,4 +5,4 @@ Each branch will also include a pdf file of the report associated with the proje
 ## Projects
   - Project 1: Lawnmower and Alternate Sorting
   - Project 2: Greedy and Exhaustive Search
-  - Project 3: TBD
+  - Project 3: Balanced Glasses Display
