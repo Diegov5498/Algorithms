@@ -17,7 +17,7 @@
             else:                                                                               
                 dp[i][j] = dp[i-1][j]                                                           //2 steps
 
-    while n > 0 and m > 0:                                                                      //3 steps
+    while n > 0 and m > 0:                                                                      //3+n steps
         if dp[n][m] != dp[n-1][m]:                                                              //2 steps
             add food at source[n-1] to best                                                     //2 steps
             m = m - source[n-1].calories                                                        //3 steps
