@@ -261,7 +261,6 @@ std::unique_ptr<FoodVector> dynamic_max_weight
 {	
 	std::unique_ptr<FoodVector> source(new FoodVector(foods));
 	std::unique_ptr<FoodVector> best(new FoodVector);
-	// print_food_vector(*todo);
 
 	//DP Table
 	std::size_t n = foods.size();
